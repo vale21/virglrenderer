@@ -1,3 +1,6 @@
+This repo is just a fork of the UTM virglrenderer repo, with a tag that ensures that the homebrew build will continue working even if UTM team keeps developing this code
+--------
+
 `Virglrenderer <https://virgil3d.github.io/>`_ - The VirGL virtual OpenGL renderer
 ==================================================================================
 
